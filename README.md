@@ -1,1 +1,2 @@
 # Retail-Sales-Forecasting--Excel
+This project focuses on retail sales forecasting using Microsoft Excel. The objective is to predict future sales trends based on historical sales data and other relevant factors. Excel's built-in features and functionalities are utilized to perform data analysis, create predictive models, and generate forecasts. This approach provides a straightforward and accessible method for retail sales forecasting without the need for specialized software or programming skills.
